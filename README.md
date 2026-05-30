@@ -1,28 +1,30 @@
 # Hi there, I'm Güven! 👋
 
-I am a **Physicist turned Cryptography Researcher & Protocol Engineer**. By leveraging my background in physics, I focus on designing novel cryptographic algorithms, quantum-inspired protocols, and decentralized security architectures that alter "Attack Economics" to eliminate single points of failure.
+I am a **Physicist turned Compiler Engineer, Cryptography Researcher & Protocol Engineer**. By blending my background in physics with advanced systems programming, I build next-generation language runtimes and highly secure, decentralized protocols.
 
-- 🔬 Applying physics principles and advanced mathematics to create alternative hashing mechanisms.
-- 🛠️ Deeply interested in Post-Quantum Cryptography, Quantum-Inspired Hash Functions, and Ephemeral Identity Distributions.
-- 💬 Ask me about: Spin-Quantum Mechanics in Crypto, Custom Hash Functions, and Zero-Trust Architecture.
+I am the creator and core architect of **[MELP](https://melp.dev/)**, a multi-syntax, multi-lingual programming language designed to offer the freedom of natural languages alongside native-level performance.
 
----
-
-### 🚀 Featured Research & Protocols
-
-*   **[EIDA (Ephemeral Identity Distribution Architecture)](https://github.com)** - A decentralized framework designed to neutralize supply chain attacks by eliminating centralized repository risks and isolating user environments to shrink the blast radius.
-*   **[Spin-Quantum-Hash](https://github.com)** - An experimental cryptographic hash algorithm modeling 512 virtual electron spins using superposition states to achieve high collision resistance.
-*   **[Radix-Hash](https://github.com)** - A custom hashing function built from scratch exploring base-3 representations and verified via NIST randomness tests.
+- 🔬 Applying complex systems modeling and physics concepts to compiler and cryptographic design.
+- 🛠️ Deeply interested in Language Runtimes, Custom Hashing Engines, and Zero-Trust Architectures.
+- 💬 Ask me about: Language Design (MELP), Quantum-Inspired Protocols, and Cyber Economics.
 
 ---
 
-### 🧰 Tech Stack & Expertise
+### 🔮 Core Innovations & Projects
 
-*   **Core Focus:** Theoretical & Applied Cryptography, Physics-Inspired Protocol Design, Cybersecurity Economics.
-*   **Languages & Tools:** Go, Rust, Python, C++.
-*   **Concepts:** Post-Quantum Cryptography, Microservices Isolation, Randomness Verification (NIST), Digitally Signed Protocols.
+*   **[MELP Programming Language](https://melp.dev/)** - A novel language architecture allowing developers to code with familiar syntaxes (C, Go, Python) or natural language inputs, compiled down to native speed.
+*   **[EIDA (Ephemeral Identity Distribution Architecture)](https://github.com)** - A decentralized framework designed to eliminate centralized repository single points of failure by enforcing micro-isolated ephemeral environments.
+*   **[Spin-Quantum-Hash](https://github.com)** - An experimental cryptographic hash algorithm modeling 512 virtual electron spins in superposition to reach maximum collision resistance.
+*   **[Radix-Hash](https://github.com)** - A custom base-3 representation hashing function tested and verified using NIST statistical randomness suites.
 
 ---
 
-📫 **How to reach me:** [guvenacar@gmail.com] | [[LinkedIn Profile Link](https://www.linkedin.com/in/guven-acar-5a0a8436/)]
+### 🧰 Tech Stack & Scientific Core
 
+*   **Core Systems:** Compiler Engineering, Systems Programming, Applied Cryptography.
+*   **Physics Frameworks:** Computational Physics, Quantum State Modeling, Statistical Randomness.
+*   **Languages & Tooling:** Go, Rust, Python, C++.
+
+---
+
+📫 **How to reach me:** [your-email@example.com] | [LinkedIn Profile Link] | **Project Page:** [melp.dev](https://melp.dev/)
