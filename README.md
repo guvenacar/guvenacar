@@ -27,4 +27,4 @@ I am the creator and core architect of **[MELP](https://melp.dev/)**, a multi-sy
 
 ---
 
-📫 **How to reach me:** [your-email@example.com] | [LinkedIn Profile Link] | **Project Page:** [melp.dev](https://melp.dev/)
+📫 **How to reach me:** [guvenacar@gmail.com] | [[LinkedIn Profile Link](https://www.linkedin.com/in/guven-acar-5a0a8436/)] | **Project Page:** [melp.dev](https://melp.dev/)
