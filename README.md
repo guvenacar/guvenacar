@@ -24,5 +24,5 @@ I am a **Physicist turned Cryptography Researcher & Protocol Engineer**. By leve
 
 ---
 
-📫 **How to reach me:** [your-email@example.com] | [LinkedIn Profile Link]
+📫 **How to reach me:** [guvenacar@gmail.com] | [[LinkedIn Profile Link](https://www.linkedin.com/in/guven-acar-5a0a8436/)]
 
